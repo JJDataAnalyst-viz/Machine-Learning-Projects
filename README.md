@@ -17,7 +17,7 @@
 
 Conducted a detailed analysis of Bellabeat's Google Analytics data to optimize marketing strategies and enhance user engagement for their wellness products. The insights gained will inform targeted approaches for driving business growth and improving customer satisfaction.
 
-
+</br>
 # Data-Analyst-Portfolio
 My data analyst portfolio highlights my expertise, projects, and insights, demonstrating my capabilities to potential employers or clients.
 
