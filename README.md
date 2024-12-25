@@ -17,48 +17,6 @@
 
 Conducted a detailed analysis of Bellabeat's Google Analytics data to optimize marketing strategies and enhance user engagement for their wellness products. The insights gained will inform targeted approaches for driving business growth and improving customer satisfaction.
 
-#
-<img align="left" width="250" height="150" src="https://c4.wallpaperflare.com/wallpaper/540/309/90/batallion-arrives-wallpaper-preview.jpg"> **[Royal Profiles Dashboard: Kings and Generals Explorer](https://github.com/JJDataAnalyst-viz/BestLeadersProjectinPowerBI)**
-
-This project features a comprehensive dashboard showcasing profiles of significant kings and generals from different countries. It includes a robust database, advanced data transformation using Power Query and DAX, automation through macros and VBA scripts, and intuitive UI/UX design created with Figma and PowerPoint.
-
-#
-<img align="left" width="250" height="150" src="https://marketingbinder.com/wp-content/uploads/2021/07/marketing-to-sales-analysis-header-image.jpg"> **[Sales & Loyalty Points Analysis](https://github.com/JJDataAnalyst-viz/Sales_Analysis)**
-
-This project involves analyzing sales data and loyalty points accumulation utilizing Python and MS SQL. It encompasses an Exploratory Data Analysis (EDA) phase to extract insights and a dynamic Excel dashboard for visualizing the findings.
-
-
-#
-
-<img align="left" width="250" height="150" src="https://www.onkonet.pl/images_news/sars_cov_2.jpg"> **[Pandemic Pulse: Exploring COVID-19 in Germany and Italy]()**
- 
-Embark on a journey to dissect COVID-19 data in Germany and Italy amidst the global panorama. Explore trends in confirmed cases, recoveries, and fatalities, gaining insights to inform strategic responses and public health measures
-
-
-#
-
-<img align="left" width="250" height="150" src="https://miro.medium.com/v2/resize:fit:1200/1*-Oa3eUBRoF4uzvJkp9OV_Q.jpeg"> **[Estimating Taxi Fares: A Regression Modeling Project for New York City TLC]()**
-
-
-Embark on a journey to dissect COVID-19 data in Germany and Italy amidst the global panorama. Explore trends in confirmed cases, recoveries, and fatalities, gaining insights to inform strategic responses and public health measures
-
-#
-
-<img align="left" width="250" height="150" src="https://i.insider.com/636944e3113fe1001834d506?width=700"> **[Exploring TikTok: Data Analysis and Predictive Modeling Project]()**
-
-
-Embark on a journey to dissect COVID-19 data in Germany and Italy amidst the global panorama. Explore trends in confirmed cases, recoveries, and fatalities, gaining insights to inform strategic responses and public health measures
-
-#
-
-<img align="left" width="250" height="150" src="https://gmbapi.com/wp-content/uploads/2023/12/Waze.jpg"> **[Churn Prevention Project: Analyzing User Behavior for Waze App Optimization]()**
-
-
-Embark on a journey to dissect COVID-19 data in Germany and Italy amidst the global panorama. Explore trends in confirmed cases, recoveries, and fatalities, gaining insights to inform strategic responses and public health measures
-
-<br />
-
-
 
 # Data-Analyst-Portfolio
 My data analyst portfolio highlights my expertise, projects, and insights, demonstrating my capabilities to potential employers or clients.
