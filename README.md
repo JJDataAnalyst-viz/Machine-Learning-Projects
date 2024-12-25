@@ -8,11 +8,9 @@
 
 > - [ ] For **Data Analyst Portoflio**  please check [Data Analyst Portoflio](https://github.com/JJDataAnalyst-viz/Data-Analyst-Portfolio) repository.
 
-> - [ ] For **Machine Learning**  algorithms please check [Machine Learning](https://github.com/JJDataAnalyst-viz/Small-Machine-Learning-Projects) repository.
+> - [ ] For **Small Machine Learning Projects**  algorithms please check [Machine Learning](https://github.com/JJDataAnalyst-viz/Small-Machine-Learning-Projects) repository.
 
-> - [ ] For **Data Science**  please check [Data Science](https://github.com/JJDataAnalyst-viz/Data-Science-Portfolio) repository.
-
-> - [ ] For **Data Engineer's Portfolio** please check [Data Engineer's Portfolio](https://github.com/ElizaLo/Computer-Vision) repository.
+> - [ ] For **Data Science Portfolio** Hi currently this is the repository.
 
 ## Projects
 <img align="left" width="250" height="150" src="https://miro.medium.com/v2/resize:fit:1400/1*U4x0VzHWrRYZom1zFKQGIQ.png"> **[Bellabeat Analytics Odyssey: Navigating User Engagement](https://github.com/JJDataAnalyst-viz/Bellabeat_Project)**
