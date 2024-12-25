@@ -13,7 +13,7 @@
 > - [ ] For **Data Science Portfolio** Hi currently this is the repository.
 
 ## Projects
-<img align="left" width="250" height="150" src="https://png.pngtree.com/thumb_back/fh260/background/20230609/pngtree-size-chart-and-measurements-for-adults-image_2913034.jpg"> **[Bellabeat Analytics Odyssey: Navigating User Engagement](https://github.com/JJDataAnalyst-viz/Bellabeat_Project)**
+<img align="left" width="250" height="150" src="https://png.pngtree.com/thumb_back/fh260/background/20230609/pngtree-size-chart-and-measurements-for-adults-image_2913034.jpg"> **[Predicting Weight](https://github.com/JJDataAnalyst-viz/Bellabeat_Project)**
 
 Conducted a detailed analysis of Bellabeat's Google Analytics data to optimize marketing strategies and enhance user engagement for their wellness products. The insights gained will inform targeted approaches for driving business growth and improving customer satisfaction.
 
