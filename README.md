@@ -1,6 +1,6 @@
 # Machine-Learning-Projects
 
-  <img src="https://as1.ftcdn.net/v2/jpg/02/42/83/38/1000_F_242833857_rsLAXVpWoSsKMOt9n5BCb4IRdNRupQ8X.jpg" width="900" >       
+  <img src="https://miro.medium.com/v2/resize:fit:870/1*14v1pUZwr516557dpS-oYw.jpeg" width="900" >       
             
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJJDataAnalyst-viz%2FData-Analyst-Portfolio&count_bg=%23050A2D&title_bg=%238C2A2A&icon=python.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com) 
 
