@@ -18,8 +18,9 @@
 Conducted a detailed analysis of Bellabeat's Google Analytics data to optimize marketing strategies and enhance user engagement for their wellness products. The insights gained will inform targeted approaches for driving business growth and improving customer satisfaction.
 
 </br>
-# Data-Analyst-Portfolio
-My data analyst portfolio highlights my expertise, projects, and insights, demonstrating my capabilities to potential employers or clients.
+
+# Data Science portoflio
+My data science portfolio highlights my expertise, projects, and insights, demonstrating my capabilities to potential employers or clients.
 
 # Contents
 ## Data Analysis and Visualization [![Kaggle](https://img.shields.io/badge/Kaggle%20-%232696D1.svg?&style=for-the-badge&logo=kaggle&logoColor=white&labelColor=blue)](https://www.kaggle.com/kubajdrych) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/JJDataAnalyst-viz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-j%C4%99drych/)
