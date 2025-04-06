@@ -13,10 +13,11 @@
 > - [ ] For **Data Science Portfolio** Hi currently this is the repository.
 
 ## Projects
-<img align="left" width="250" height="150" src="https://www.telegraph.co.uk/content/dam/pets/2023/12/19/TELEMMGLPICT000360501556_17030017802140_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?imwidth=680"> **[Cats vs Dogs](https://github.com/JJDataAnalyst-viz/Bellabeat_Project)**
+<img align="left" width="250" height="150" src="https://www.telegraph.co.uk/content/dam/pets/2023/12/19/TELEMMGLPICT000360501556_17030017802140_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?imwidth=680"> **[Cats vs Dogs 🐶🐱](https://github.com/JJDataAnalyst-viz/CatVsDog-PyTorch)**
 
-This project explores the relationship between weight and height to predict weight using statistical and machine learning techniques.
-
+A computer vision project using PyTorch and transfer learning to classify cat and dog images. <br>
+📊 Tracked with MLflow for experiment logging and reproducibility. <br>
+🧰 Tools: PyTorch, torchvision, MLflow, NumPy, pandas, matplotlib
 </br>
 
 # Data Science portoflio
