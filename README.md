@@ -2,7 +2,7 @@
 
   <img src="https://jifedtechnology.com.ng/wp-content/uploads/elementor/thumbs/Jifed-Technology-data-science-syllabus-qr9cvd31ihqir8bwnj45yg8h6nqrvu5g709pphy6qc.jpg" width="900" >       
             
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJJDataAnalyst-viz%2FData-Analyst-Portfolio&count_bg=%23050A2D&title_bg=%238C2A2A&icon=python.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com) 
+
 
 ## 🔄 My stack related to data. Subscribe there is constant updates    
 
