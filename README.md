@@ -19,6 +19,17 @@ A computer vision project using PyTorch and transfer learning to classify cat an
 📊 Tracked with MLflow for experiment logging and reproducibility. <br>
 🧰 Tools: PyTorch, torchvision, MLflow, NumPy, pandas, matplotlib
 </br>
+</br></br></br>
+<img align="left" width="250" height="150" src="https://www.shaip.com/wp-content/uploads/2022/10/Blog-What-is-NLP.jpg">
+<b><a href="#">Natural Language Processing 🔠🧠</a></b><br>
+A project focused on text classification and NLP tasks using transformers and spaCy. <br>
+📚 Preprocessing with tokenization, stemming, and lemmatization. <br>
+🧰 Tools: HuggingFace Transformers, spaCy, pandas, scikit-learn, seaborn
+</br>
+</br></br>
+</br>
+
+
 
 # Data Science portoflio
 My data science portfolio highlights my expertise, projects, and insights, demonstrating my capabilities to potential employers or clients.
