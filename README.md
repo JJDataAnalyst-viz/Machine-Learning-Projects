@@ -24,7 +24,9 @@ A computer vision project using PyTorch and transfer learning to classify cat an
 <b><a href="#">Natural Language Processing 🔠🧠</a></b><br>
 A project focused on text classification, model monitoring and user feedback loop. <br>
 📚 Preprocessing with NLTK (tokenization, lemmatization). <br>
-🧰 Tools: Python, NLTK, XGBoost, MLflow, Streamlit, PostgreSQL, Apache Airflow, Power BI
+🧰 Tools: Python, NLTK, XGBoost, MLflow, Streamlit, <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PostgreSQL, Apache Airflow, Power BI
+
 </br>
 </br></br>
 </br>
