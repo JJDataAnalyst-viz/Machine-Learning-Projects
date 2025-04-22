@@ -22,9 +22,9 @@ A computer vision project using PyTorch and transfer learning to classify cat an
 </br></br></br>
 <img align="left" width="250" height="150" src="https://www.shaip.com/wp-content/uploads/2022/10/Blog-What-is-NLP.jpg">
 <b><a href="#">Natural Language Processing 🔠🧠</a></b><br>
-A project focused on text classification and NLP tasks using transformers and spaCy. <br>
-📚 Preprocessing with tokenization, stemming, and lemmatization. <br>
-🧰 Tools: HuggingFace Transformers, spaCy, pandas, scikit-learn, seaborn
+A project focused on text classification, model monitoring and user feedback loop. <br>
+📚 Preprocessing with NLTK (tokenization, lemmatization). <br>
+🧰 Tools: Python, NLTK, XGBoost, MLflow, Streamlit, PostgreSQL, Apache Airflow, Power BI
 </br>
 </br></br>
 </br>
